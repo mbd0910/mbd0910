@@ -4,8 +4,8 @@ Senior Software Engineer with 18 years of experience building data-intensive app
 
 ## What I'm building
 
-🔍 **[MOTD Video Analyser](https://github.com/mbd0910/motd-video-analyser)** — Investigating potential bias in BBC football coverage using computer vision, NLP, and statistical analysis.
-🛠️ **Client & side projects** — Currently building admin tools, business automation, and indie products using Next.js, TypeScript, and AI-assisted development workflows. Most of this work lives in private repos.
+* 🔍 **[MOTD Video Analyser](https://github.com/mbd0910/motd-video-analyser)** — Investigating potential bias in BBC football coverage using computer vision, NLP, and statistical analysis.
+* 🛠️ **Client & side projects** — Currently building admin tools, business automation, and indie products using Next.js, TypeScript, and AI-assisted development workflows. Most of this work lives in private repos.
 
 ## Domain expertise
 
